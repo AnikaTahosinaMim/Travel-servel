@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Deshi Shahi Cow",
+    "type": "Cow",
+    "breed": "Local Deshi",
+    "price": 120000,
+    "weight": 280,
+    "age": 3,
+    "location": "Bogura",
+    "description": "Healthy deshi cow suitable for Qurbani. Well fed with natural খাবার.",
+    "image": "https://i.postimg.cc/8cZQm9Yc/cow1.jpg",
+    "category": "Large Animal"
+  },
+  {
+    "id": 2,
+    "name": "Australian Friesian Cow",
+    "type": "Cow",
+    "breed": "Friesian",
+    "price": 180000,
+    "weight": 350,
+    "age": 4,
+    "location": "Sirajganj",
+    "description": "High-quality foreign breed cow with excellent স্বাস্থ্য.",
+    "image": "https://i.postimg.cc/4xjFQ0hL/cow2.jpg",
+    "category": "Large Animal"
+  },
+  {
+    "id": 3,
+    "name": "Black Bengal Goat",
+    "type": "Goat",
+    "breed": "Black Bengal",
+    "price": 25000,
+    "weight": 35,
+    "age": 2,
+    "location": "Rajshahi",
+    "description": "Popular goat breed in Bangladesh, খুব সুস্বাদু মাংস.",
+    "image": "https://i.postimg.cc/qR8zZzKx/goat1.jpg",
+    "category": "Medium Animal"
+  },
+  {
+    "id": 4,
+    "name": "Jamunapari Goat",
+    "type": "Goat",
+    "breed": "Jamunapari",
+    "price": 40000,
+    "weight": 50,
+    "age": 3,
+    "location": "Pabna",
+    "description": "Large size goat suitable for Qurbani and breeding.",
+    "image": "https://i.postimg.cc/V6ZrP7zB/goat2.jpg",
+    "category": "Medium Animal"
+  },
+  {
+    "id": 5,
+    "name": "Deshi Sheep",
+    "type": "Sheep",
+    "breed": "Local",
+    "price": 20000,
+    "weight": 30,
+    "age": 2,
+    "location": "Naogaon",
+    "description": "Healthy sheep with ভালো মানের মাংস.",
+    "image": "https://i.postimg.cc/3xYF8J2s/sheep1.jpg",
+    "category": "Medium Animal"
+  },
+  {
+    "id": 6,
+    "name": "White Rabbit",
+    "type": "Rabbit",
+    "breed": "New Zealand White",
+    "price": 5000,
+    "weight": 4,
+    "age": 1,
+    "location": "Dhaka",
+    "description": "Cute pet rabbit, friendly and easy to maintain.",
+    "image": "https://i.postimg.cc/Fz1y2RzS/rabbit1.jpg",
+    "category": "Small Animal"
+  }
+]
